@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.solina.refuge",
+      "sha256_cert_fingerprints": [
+        "03:B6:00:65:88:06:A0:3D:5F:56:B6:10:E6:C9:BA:51:E6:2D:D2:92:C0:9B:53:0E:96:C8:E3:AA:8A:13:9C:D7"
+      ]
+    }
+  }
+]
